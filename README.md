@@ -23,15 +23,12 @@
 | [官方網站](https://angular.cn/) | [線上教程](https://angular.cn/tutorial) | [CLI指令](https://angular.cn/cli) | [檔案結構](https://angular.cn/guide/file-structure) |
 
 ## 名詞解釋
-[Angular vs AngularJS](https://itpoet.cn/2018/08/04/angular-way-of%20learning-1/)
-
-NodeJs [Wiki](https://zh.wikipedia.org/wiki/Node.js)
-
-Typescript [Wiki](https://zh.wikipedia.org/wiki/TypeScript) | [介紹及基礎](https://medium.com/tkd-giant/typescript%E5%85%A5%E9%96%80-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-d659bb592810)
-
-Firebase [介紹](https://ithelp.ithome.com.tw/articles/10205404)
-
-CloudFlare [介紹](https://free.com.tw/cloudflare/)
+| [Angular vs AngularJS](https://itpoet.cn/2018/08/04/angular-way-of%20learning-1/) |                                                  |                                                                                                                           |
+| --------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| NodeJs                                                                            | [Wiki](https://zh.wikipedia.org/wiki/Node.js)    |                                                                                                                           |  |  |
+| Typescript                                                                        | [Wiki](https://zh.wikipedia.org/wiki/TypeScript) | [介紹及基礎](https://medium.com/tkd-giant/typescript%E5%85%A5%E9%96%80-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-d659bb592810) |
+| Firebase                                                                          |                                                  | [介紹](https://ithelp.ithome.com.tw/articles/10205404)                                                                    |
+| CloudFlare                                                                        |                                                  | [介紹](https://free.com.tw/cloudflare/)                                                                                   |
 
 
 
