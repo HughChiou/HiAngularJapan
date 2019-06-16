@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = '要打什麼都隨便你啦';
+  title = '這是標題';
   asdfjkl = 'whatever';
 }
